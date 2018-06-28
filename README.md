@@ -9,9 +9,9 @@ started city. In particular, please use the following format to record all of
 the messages. <br />
 
 Format: <br />
-<number of cities> <br />
-<city number> <x-coordinate> <y-coordinate> <br />
-<start city number> <br />
+[ number of cities ] <br />
+[ city number ] [ x-coordinate ] [ y-coordinate ] <br />
+[ start city number ] <br />
 
 For example: <br />
 5 <br />
